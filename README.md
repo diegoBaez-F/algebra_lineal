@@ -1,2 +1,2 @@
 # Algoritmos numéricos para el cálculo de autovalores: Método de las potencias y algoritmo QR
-Este repositorio contiene implementaciones en Python, experimentos numéricos y animaciones del método de las potencias y el algoritmo QR para el cálculo de autovalores y autovectores. Forma parte del reporte académico de la Maestría en Ciencias de la Inteligencia Artificial (FIUNA, 2025).
+Este repositorio contiene implementaciones en Python, experimentos numéricos y animaciones del método de las potencias y el algoritmo QR para el cálculo de autovalores y autovectores. Forma parte del reporte académico de Álgebra Lineal Avanzada de la Maestría en Ciencias de la Inteligencia Artificial (FIUNA, 2025).
